@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">YOUR-PANTRY</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Definições</string>
+    <string name="action_backup">Cópia Segurança</string>
+    <string name="action_nova_lista">Nova Lista</string>
+    <string name="action_novo_produto">Novo Produto</string>
+    <string name="action_nova_categoria">Nova Categoria</string>
+    <string name="action_novo_supermercado">Novo Supermercado</string>
+    <string name="action_refresh_produtos_adicionados">Atualizar Lista</string>
+    <string name="action_campanha_desconto">Campanha Desconto</string>
+    <string name="action_calcular_distancia">Calcular Preço Distância</string>
+    <string name="action_historico">Histórico</string>
+    <string name="activity_label_listas">Listas</string>
+    <string name="activity_label_ver_produtos">Ver Produtos</string>
+    <string name="activity_label_produtos">Produtos</string>
+    <string name="activity_label_nova_categoria">Nova Categoria</string>
+    <string name="activity_label_novo_supermercado">Novo Supermercado</string>
+    <string name="activity_label_pagina_principal">Página Principal</string>
+    <string name="activity_label_criar_lista">Criar Lista</string>
+    <string name="activity_label_lista_produtos_adicionados">Lista Produtos Adicionados</string>
+    <string name="activity_label_criar_novo_produto">Criar Novo Produto</string>
+    <string name="activity_label_menu_activity">Menu</string>
+    <string name="activity_label_supermercados">Supermercados</string>
+    <string name="activity_label_campanhasdesconto">Campanhas Desconto</string>
+    <string name="msg">Please enable all permission</string>
+
+</resources>

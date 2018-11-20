@@ -1,0 +1,57 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".Activitys.MainActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_backup"
+        android:orderInCategory="100"
+        android:title="@string/action_backup"
+        app:showAsAction="never" />
+
+
+    <item
+        android:id="@+id/action_nova_lista"
+        android:orderInCategory="100"
+        android:title="@string/action_nova_lista"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_novo_produto"
+        android:orderInCategory="100"
+        android:title="@string/action_novo_produto"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_nova_categoria"
+        android:orderInCategory="100"
+        android:title="@string/action_nova_categoria"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_novo_supermercado"
+        android:orderInCategory="100"
+        android:title="@string/activity_label_novo_supermercado"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_refresh_produtos_adicionados"
+        android:orderInCategory="100"
+        android:title="@string/action_refresh_produtos_adicionados"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_historico"
+        android:orderInCategory="100"
+        android:title="@string/action_historico"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_campanha_desconto"
+        android:orderInCategory="100"
+        android:title="@string/action_campanha_desconto"
+        app:showAsAction="never" />
+</menu>

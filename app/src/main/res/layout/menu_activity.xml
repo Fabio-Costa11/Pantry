@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="0.15"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/imgview_listas"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:adjustViewBounds="false"
+                    android:background="@color/color3"
+                    android:cropToPadding="false"
+                    android:scaleType="centerCrop"
+                    android:text="Listas"
+                    android:textAllCaps="false"
+                    android:textColor="@android:color/white"
+                    android:textSize="35sp"
+                    android:textStyle="bold"
+                    app:srcCompat="@drawable/linhas1" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="0.15"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/imgview_produtos"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@color/color4"
+                    android:cropToPadding="false"
+                    android:scaleType="centerCrop"
+                    android:text="Produtos"
+                    android:textAllCaps="false"
+                    android:textColor="@android:color/white"
+                    android:textSize="35sp"
+                    android:textStyle="bold"
+                    app:srcCompat="@drawable/linhas2" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="0.15"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/imgview_supermercados"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@color/color5"
+                    android:cropToPadding="false"
+                    android:scaleType="centerCrop"
+                    android:text="Supermercados"
+                    android:textAllCaps="false"
+                    android:textColor="@android:color/white"
+                    android:textSize="35sp"
+                    android:textStyle="bold"
+                    app:srcCompat="@drawable/linhas3" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="0.15"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/imgview_historico"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@color/color6"
+                    android:cropToPadding="false"
+                    android:scaleType="centerCrop"
+                    android:text="Histórico"
+                    android:textAllCaps="false"
+                    android:textColor="@android:color/white"
+                    android:textSize="35sp"
+                    android:textStyle="bold"
+                    app:srcCompat="@drawable/linhas4" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="0.15"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/imgview_descontos"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@color/color7"
+                    android:cropToPadding="false"
+                    android:scaleType="centerCrop"
+                    android:text="Descontos"
+                    android:textAllCaps="false"
+                    android:textColor="@android:color/white"
+                    android:textSize="35sp"
+                    android:textStyle="bold"
+                    app:srcCompat="@drawable/linhas5" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="0.15"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/imgview_sair"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@color/colorPrimaryDark"
+                    android:scaleType="centerCrop"
+                    android:text="Sair"
+                    android:textAllCaps="false"
+                    android:textColor="@android:color/white"
+                    android:textSize="35sp"
+                    android:textStyle="bold"
+                    app:srcCompat="@drawable/linhas6" />
+            </LinearLayout>
+
+</LinearLayout>
